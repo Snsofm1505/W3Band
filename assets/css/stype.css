@@ -347,6 +347,11 @@ kiểu dáng */
     opacity: 0.8;
 }
 
+.contact-title .contact-sub p {
+    color: #000;
+    font-size: 20px;
+}
+
 .contact-title {
     float: left;
     font-family: 'Times New Roman', Times, serif;
@@ -378,6 +383,10 @@ kiểu dáng */
 #footer {
     padding: 64px 16px;
     text-align: center;
+}
+
+.NewYork img {
+    max-width: 880px;
 }
 
 #footer .social-list a {
